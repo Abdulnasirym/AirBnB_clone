@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.container .places h1{
+    font-size: 30px;
+    width: 100%;
+}
+
+.container .places .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -30px;
+
+}
+
+.container .places .row article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    align-items: center;
+    border-radius: 4px;
+
+}
+
+.container .places .row article h2 {
+    font-size: 30px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
