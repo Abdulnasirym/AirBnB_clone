@@ -1,0 +1,14 @@
+.filters .locations{
+    height: 100%;
+    width: 25%;
+    border-right: 1pxsolid #DDD;
+}
+
+.filters h3 {
+    font-weight: 600px;
+}
+
+.filters h4 {
+    font-weight: 400;
+    font-size: 14px;
+}
