@@ -1,14 +1,23 @@
-.filters .locations{
+.filters .locations, .filters .amenities{
     height: 100%;
     width: 25%;
-    border-right: 1pxsolid #DDD;
+    border-right: 1px solid #DDD;
+}
+
+.filters .amenities {
+    border: none;
 }
 
 .filters h3 {
     font-weight: 600px;
+    margin-bottom: -15px;
 }
 
 .filters h4 {
     font-weight: 400;
     font-size: 14px;
+}
+
+.filters h3, .filters h4 {
+    margin-left: 30px;
 }
