@@ -1,5 +1,12 @@
-body {
+* {
+    box-sizing: border-box;
+}
+html, body {
     margin: 0;
     padding: 0;
-    padding-bottom: 60px;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+body {
+    padding-bottom: 60px; /* Make sure body has enough padding to accommodate the footer */
 }
