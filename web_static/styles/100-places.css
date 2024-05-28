@@ -1,0 +1,53 @@
+.container {
+    padding-bottom: 60px;
+}
+
+.row .amenities {
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
+
+.row .amenities h2, .row .reviews h2{
+    font-size: 16px;
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.row .amenities li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    
+}
+
+.row .amenities .icons {
+    padding-top: 30px;   
+}
+
+.row .amenities img {
+    margin-left: -40px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+
+/* .row .reviews h2{
+    font-size: 16px;
+    border-bottom: 1px solid #DDD;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    
+} */
+
+.row .reviews h3 {
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+.row .reviews p {
+    font-size: 12px;
+}
+
