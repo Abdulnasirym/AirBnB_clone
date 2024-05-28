@@ -1,0 +1,5 @@
+.places article {
+    display: flex;
+    align-items: center;
+    background-color: red;
+}
