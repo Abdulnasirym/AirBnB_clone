@@ -1,5 +1,23 @@
-.places article {
+.row .reviews h3 p {
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+.reviews {
+    margin-left: 10px;
+}
+
+.row .reviews p {
+    font-size: 12px;
+}
+
+.row .h2 {
     display: flex;
-    align-items: center;
-    background-color: red;
+    margin-left: 0px;
+    border-bottom: 1px solid #DDD;
+    width: 100%;
+}
+
+.row h2 {
+    margin-left: 0px;
 }

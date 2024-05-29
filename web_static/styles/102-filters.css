@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+
+    .filters button {
+        margin-right: 10px;
+    }
+
+    .filters .locations, .filters .amenities {
+        flex: 1 1 100%;
+        max-width: 30%; /* Ensure full width for content */
+    }
+
+    .container .filters {
+        width: 96%;
+    }
+}
